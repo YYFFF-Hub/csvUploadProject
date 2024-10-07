@@ -1,5 +1,5 @@
 # set the database
-HOSTNAME = '192.168.0.54'      # 数据库地址
+HOSTNAME = '127.0.0.1'      # 数据库地址
 PORT = 3306
 USERNAME = 'root'  # 数据库用户名
 PASSWORD = 'root'  # 数据库密码
